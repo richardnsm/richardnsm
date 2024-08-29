@@ -1,17 +1,22 @@
 ### Hi there 👋
 
-I'm Richard NSOMI, a software development student based in France.
+I'm **Richard NSOMI**, a software development student based in France.
 
 ### 🛠 Tech Stack
-- TypeScript
-- Angular
+- **TypeScript**
+- **Angular**
 
 ### 🌱 Currently Learning
-- React
-- Node.js
+- **React**
+- **Node.js**
 
-### 🌍 About me:
-As a beginner I love learning new technologies to build new projects.
+### 🌍 About Me
+I'm a beginner who loves learning new technologies and building exciting projects!
+
+---
+
+Feel free to explore my repositories and connect! 😊
+
 
 <!--
 **richardnsm/richardnsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
